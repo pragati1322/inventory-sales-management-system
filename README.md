@@ -1,4 +1,6 @@
-This project is a Python-based Inventory and Sales Management System with email alerts for low stock.
+Inventory and Sales Management System
+
+This project is a Python-based Inventory and Sales Management System that helps manage product inventory and sales transactions efficiently. The system allows users to add, update, search, and delete products, record sales, and calculate total revenue. It also includes a low stock alert feature that sends an email notification when the quantity of a product falls below a specified limit.
 
 ## Features
 
@@ -19,6 +21,14 @@ This project is a Python-based Inventory and Sales Management System with email 
 - SMTP Email Service
 
 ## How to Run
+1. Install Python on your system.
+2.Download or clone the repository.
+3.Open the project folder.
+4.Run the Python program.
 
-1. Install Python
-2. Run the script
+To see the Process Flow: Open 'Flowchart.png'
+To see the Entities and Relationships: Open 'ER_diagram.png'
+
+
+Author
+Pragati Kumari
