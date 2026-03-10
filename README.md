@@ -22,12 +22,14 @@ This project is a Python-based Inventory and Sales Management System that helps 
 
 ## How to Run
 1. Install Python on your system.
-2.Download or clone the repository.
-3.Open the project folder.
-4.Run the Python program.
+2. Download or clone the repository.
+3. Open the project folder.
+4. Run the Python program.
 
-To see the Process Flow: Open 'Flowchart.png'
-To see the Entities and Relationships: Open 'ER_diagram.png'
+## Project Diagrams
+
+- To see the **Process Flow**, open `Flowchart.png`.
+- To see the **Entities and Relationships**, open `ER_diagram.png`.
 
 
 Author
