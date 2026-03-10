@@ -32,5 +32,7 @@ This project is a Python-based Inventory and Sales Management System that helps 
 - To see the **Entities and Relationships**, open `ER_diagram.png`.
 
 
-Author
-Pragati Kumari
+## Author
+
+Pragati Kumari  
+GitHub: https://github.com/pragati1322
