@@ -1,0 +1,8 @@
+101,Pen,8,10
+102,Notebook,28,40
+103,Pencil,99,5
+104,Eraser,60,3
+105,Marker,25,20
+106,Stapler,5,120
+107,Glue,36,15
+108,Scale,8,40
